@@ -13,4 +13,4 @@ kapi~chupichu~chu~kapi~chupichu~chu~~
 Or translate sentence, input:
 python3 pikachu.py "Author by firedom"
 The Terminal will return:
-chu~kapichu~ka~chuka~pika~kachu~~chukapi~chupichu~~kachupi~pichu~kachu~pi~pikapi~pika~pichuka~
+<p>chu~kapichu~ka~chuka~pika~kachu~~chukapi~chupichu~~kachupi~pichu~kachu~pi~pikapi~pika~pichuka~</p>
