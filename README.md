@@ -16,7 +16,6 @@ The Terminal will return:
 
 
 #analysis list:
- ![image](https://github.com/firedom/pikachu-lang/blob/master/IMG_0461.jpg)  
 a chu  
 b chukapi  
 c pikachu  
@@ -53,3 +52,4 @@ z chupichuka
 7 chukapika  
 8 chukapichu  
 9 chukachupi  
+ ![image](https://github.com/firedom/pikachu-lang/blob/master/IMG_0461.jpg)  
