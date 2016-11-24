@@ -1,7 +1,7 @@
 # pikachu-lang
 translate a English string to pikalang =3=
 
-This is just a toy program.Because I have a friend who can only speak pikalang，so I wrote this program In order to communicate with each other.
+This is just a toy program. Because I have a friend who can only speak pikalang, so I wrote this program In order to communicate with each other.
 
 
 #How to use
