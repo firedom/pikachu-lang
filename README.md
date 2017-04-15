@@ -3,3 +3,9 @@
 （皮酱我喜欢你啊~~~~）
 
 ![alt tag](https://github.com/Tengger/pikachu-lang/blob/master/pikasay.jpg?raw=true)
+
+An online version of pikachu-lang, A modern browser is everything need to play this game.
+pikachu-lang的在线版，无需数据库，php等环境，只需一个不要太过时的浏览器就可以玩。
+如有问题，欢迎指正~
+Created By Tenggerx
+2017/4/14
