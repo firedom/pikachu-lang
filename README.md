@@ -2,4 +2,4 @@
 
 （皮酱我喜欢你啊~~~~）
 
-![alt text](data:image/png;pikasay)
+![img](data:image/png;pikasay)
