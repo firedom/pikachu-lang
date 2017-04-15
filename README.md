@@ -2,4 +2,4 @@
 
 （皮酱我喜欢你啊~~~~）
 
-![img](data:image/png;pikasay)
+![alt tag](https://github.com/Tengger/pikachu-lang/blob/master/pikasay.jpg?raw=true)
