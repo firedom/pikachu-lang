@@ -1,0 +1,69 @@
+html, body, header, footer, hgroup, nav, div.article, section, figure,
+figcaption, h1, h2, h3, ul, li, body, div, p, img {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border: 0;
+}
+
+body {
+    background-image: url("images/background.jpg");
+    background-repeat:repeat;
+    font-family: "Arial", sans-serif;
+    width: 880px;
+    margin: 0px auto;
+}
+
+header{
+    background-color: #fdf07e;
+    text-align: center;
+    padding-top: 0;
+}
+div.play-area{
+    background:rgba(100,100,100,0.5);
+    padding-bottom: 2em;
+}
+
+input[type="text"] {
+    width: 650px;
+}
+
+input[type="submit"] {
+    width: 6em;
+}
+
+.sendout{
+    text-align: center;
+    margin-top: 3em;
+}
+
+div.dlg{
+    background-color: white;
+    border: solid 1pt black;
+    width: 700px;
+    margin: 0px auto;
+    word-break: break-all;
+    white-space: normal;
+}
+
+div.pikachat{
+     margin:3px 3px 3px 3px ;
+     background-color: #fdf07e;
+}
+
+div.pikachat img{
+    margin:2px 0 0 2px ;
+    border: solid 2px gray;
+}
+
+div.userchat{
+    margin:3px 3px 0 3px ;
+    background-color: #b2d6f2;
+    text-align: right;
+}
+
+div.userchat img{
+    margin:2px 2px 0 0 ;
+    border: solid 2px gray;
+}
