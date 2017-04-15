@@ -55,5 +55,5 @@ z chupichuka
 
  ![image](https://github.com/firedom/pikachu-lang/blob/master/IMG_0461.jpg)  
  ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan_1.png)  
- ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 2.png)  
- ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 3.png)  
+ ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan_2.png)  
+ ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan_3.png)  
