@@ -7,7 +7,7 @@ This is just a toy program. Because I have a friend who can only speak pikalang,
 If you want translate words, input:  
 python3 pikachu.py nyanya~  
 The Terminal will return:  
-kapi~chupichu~chu~kapi~chupichu~chu~~  
+<p>kapi~chupichu~chu~kapi~chupichu~chu~~</p>    
 
 Or translate sentence, input:  
 python3 pikachu.py "Author by firedom"  
@@ -52,7 +52,8 @@ z chupichuka
 7 chukapika  
 8 chukapichu  
 9 chukachupi  
+
  ![image](https://github.com/firedom/pikachu-lang/blob/master/IMG_0461.jpg)  
  ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 1.png)  
- ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 2.png)  
- ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 3.png)  
+ ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 2.png)  
+ ![image](https://github.com/firedom/pikachu-lang/blob/master/Scan 3.png)  
