@@ -98,7 +98,7 @@ def pikalang(str):
             output += 'kapikachu~'
             continue
         if s == '5':
-            output += 'kapichuka~'
+            output += 'kapichupi~'
             continue
         if s == '6':
             output += 'kachupichu~'
@@ -111,9 +111,6 @@ def pikalang(str):
             continue
         if s == '9':
             output += 'chukachupi~'
-            continue
-        if s == ' ':
-            output += '~'
             continue
         output += s
 
@@ -131,6 +128,6 @@ kapi~chupichu~chu~kapi~chupichu~chu~~
 Or translate sentence, input:
 python3 pikachu.py "Author by firedom"
 The Terminal will return:
-chu~kapichu~ka~chuka~pika~kachu~~chukapi~chupichu~~kachupi~pichu~kachu~pi~pikapi~pika~pichuka~""")
+chu~kapichu~ka~chuka~pika~kachu~ chukapi~chupichu~ kachupi~pichu~kachu~pi~pikapi~pika~pichuka~""")
         sys.exit(0)
     print(pikalang(sys.argv[1]))
