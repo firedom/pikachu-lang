@@ -12,7 +12,7 @@ The Terminal will return:
 Or translate sentence, input:  
 python3 pikachu.py "Author by firedom"  
 The Terminal will return:  
-<p>chu~kapichu~ka~chuka~pika~kachu~~chukapi~chupichu~~kachupi~pichu~kachu~pi~pikapi~pika~pichuka~</p>  
+<p>chu~kapichu~ka~chuka~pika~kachu~ chukapi~chupichu~ kachupi~pichu~kachu~pi~pikapi~pika~pichuka~</p>  
 
 
 #analysis list:
@@ -47,8 +47,8 @@ z chupichuka
 2 pichukapi  
 3 pichukachu  
 4 kapikachu  
-5 kapichuka  
-6 kachupichu  
+5 kapichupi
+6 kachupichu  
 7 chukapika  
 8 chukapichu  
 9 chukachupi  
