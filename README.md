@@ -47,7 +47,7 @@ z chupichuka
 2 pichukapi  
 3 pichukachu  
 4 kapikachu  
-5 kapichupi
+5 kapichupi  
 6 kachupichu  
 7 chukapika  
 8 chukapichu  
