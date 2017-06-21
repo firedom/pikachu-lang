@@ -1,6 +1,6 @@
 # adapted this progect from someone
-https://github.com/Tengger/pikachu-lang (code by Tengger)
-(Tengger I like you~~~~~~~)
+https://github.com/Tengger/pikachu-lang (code by Tengger)  
+(Tengger I like you~~~~~~~)  
 ![image](https://github.com/Tengger/pikachu-lang/raw/master/pikasay.jpg?raw=true)
 
 # pikachu-lang
