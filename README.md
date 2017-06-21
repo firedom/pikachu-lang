@@ -1,3 +1,8 @@
+# adapted this progect from someone
+https://github.com/Tengger/pikachu-lang (code by Tengger)
+(Tengger I like you~~~~~~~)
+![image](https://github.com/Tengger/pikachu-lang/raw/master/pikasay.jpg?raw=true)
+
 # pikachu-lang
 translate a English string to pikalang =3=  
 This is just a toy program. Because I have a friend who can only speak pikalang, so I wrote this program In order to communicate with each other.  
