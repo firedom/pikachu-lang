@@ -1,13 +1,9 @@
-# adapted this progect from someone
-https://github.com/Tengger/pikachu-lang (code by Tengger)  
-![image](https://github.com/Tengger/pikachu-lang/raw/master/pikasay.jpg?raw=true)
-
 # pikachu-lang
 translate a English string to pikalang =3=  
 This is just a toy program. Because I have a friend who can only speak pikalang, so I wrote this program In order to communicate with each other.  
 
 
-#How to use
+# How to use
 If you want translate words, input:  
 python3 pikachu.py nyanya~  
 The Terminal will return:  
@@ -18,8 +14,11 @@ python3 pikachu.py "Author by firedom"
 The Terminal will return:  
 <p>chu~kapichu~ka~chuka~pika~kachu~ chukapi~chupichu~ kachupi~pichu~kachu~pi~pikapi~pika~pichuka~</p>  
 
+# adapted this progect from someone
+https://github.com/Tengger/pikachu-lang (code by Tengger)  
+![image](https://github.com/Tengger/pikachu-lang/raw/master/pikasay.jpg?raw=true)
 
-#analysis list:
+# analysis list:
 a chu  
 b chukapi  
 c pikachu  
