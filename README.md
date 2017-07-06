@@ -2,6 +2,8 @@
 translate a English string to pikalang =3=  
 This is just a toy program. Because I have a friend who can only speak pikalang, so I wrote this program In order to communicate with each other.  
 
+maybe i will doing Wobbuffet-lang program =w=
+
 
 # How to use
 If you want translate words, input:  
